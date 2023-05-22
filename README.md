@@ -37,7 +37,7 @@ This is the first button's task that is fulfilled.
 And Another window which consists of two buttons that will download and can drag are move the multiple image from the one click. 
 The Another two button canvas window is 
 
-![image](https://github.com/kaifshaheemj/Desktop-App/assets/107334941/e256378a-7ae7-406b-b2a1-c80a0740f095)
+![image](https://github.com/kaifshaheemj/Desktop-App/assets/107334941/e775f2b4-d99a-4e40-add5-24f0be7649e4)
 
 
 Which doesn't show the output after the lot of deep searches in the internet an the AI tools. 
