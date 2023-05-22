@@ -7,13 +7,33 @@ Three Files are included in this repository
         First_Button  - Task of first button which adds the random images on the canvas also move the image as single or grouply.
         Second_Button - Task of Second button which adds and group the image to drag all the image at a time on the canvas
         Local_print   - This code file prints the image in the Local 
+    
+     To Run this code, we want to install this packages:
+          
+          => PyQt6 library 
 
+      Tha Application window will appear with following buttons:
+          ==> Add image
+          ==> Group image
+         
+      Code Works:
+          --> The First_button.py will work with appearing of random images in the canvas
+          --> Local_print.py  this will print the image in local
+          --> Second_Button.py will only work appearing the canvas and visible of Buttons 
+      
+      Doesn't work 
+          ==> Second_Button.py in this file the code which that group image movement will not work 
+          
+          
 Outlier of the Task: 
 These are the Action plans that i made to do this task.
  Actions that are done befor to do this task:
-  ==> How to use the canvas 
+  ==> How to use the canvas
+  
   ==> How to handle the events mouse clicks, mouse drag etc..
+  
   ==> Probably i look into python http client to fetch the image, Since the images needs to bbe downloaded and rendered not to use the loacal image 
+  
   ==> Download the Github folder and to set with local to randamize the appearing of the image when the add image clicked.
 
 Then probably look into python http client to fetch the image, since the images needs to be downloaded and rendered not to use the local image
